@@ -72,6 +72,11 @@ def get_list(persons):
 
 # as- add shelf function
 
+# m- move feature
+
+message = '"Move" feature to follow...'
+print(f"{message}")
+
 
 def add_shelf(directories):
     new_dir = input('Введите номер новой полки: ')
