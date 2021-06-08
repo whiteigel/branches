@@ -74,7 +74,8 @@ def get_list(persons):
 
 # m- move feature
 
-print('"Move" feature to follow...')
+message = '"Move" feature to follow...'
+print(f"{message}")
 
 
 def add_shelf(directories):
